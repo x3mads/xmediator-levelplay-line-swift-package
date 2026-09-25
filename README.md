@@ -18,7 +18,7 @@ coexist.
 Add this repository as a package dependency and select the
 `LevelPlayLineAdapter` product instead of LevelPlay's `LineAdapter`.
 Versions match the LevelPlay adapter versions one-to-one: version
-`5.7.0` of this package uses LevelPlay adapter `5.7.0`.
+`5.8.0` of this package uses LevelPlay adapter `5.8.0`.
 
 ## License
 
