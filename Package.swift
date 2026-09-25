@@ -4,13 +4,13 @@ import PackageDescription
 let package = Package(
     name: "XMediatorLevelPlayLineAdapterCompatibility",
     platforms: [
-        .iOS(.v13),
+        .iOS(.v15),
     ],
     products: [
         .library(name: "LevelPlayLineAdapter", targets: ["LevelPlayLineAdapterWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Line-Adapter-Swift-Package.git", exact: "5.6.0"),
+        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Line-Adapter-Swift-Package.git", exact: "5.7.0"),
     ],
     targets: [
         .target(
