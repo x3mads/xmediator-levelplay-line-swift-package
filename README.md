@@ -8,8 +8,8 @@ use the LevelPlay Line adapter together with Google's
 ## Usage
 
 Add this repository (`https://github.com/x3mads/xmediator-levelplay-line-swift-package.git`) and select the `LevelPlayLineAdapter` product.
-Version `5.7.0` of this package corresponds to LevelPlay adapter
-`5.7.0` (<https://github.com/ironsource-mobile/LevelPlay-Line-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
+Version `5.8.0` of this package corresponds to LevelPlay adapter
+`5.8.0` (<https://github.com/ironsource-mobile/LevelPlay-Line-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
 Line adapter package: both contain the same adapter binary.
 
 ## Why this package exists, and why it is built this way
